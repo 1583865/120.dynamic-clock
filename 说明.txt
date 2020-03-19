@@ -1,0 +1,6 @@
+http://ignitersworld.com/lab/radialIndicator.html  js²å¼þ
+
+https://github.com/s-yadav/radialIndicator
+
+Ê±ÖÓ²å¼þ£ºangular.radialIndicator.js
+      radialIndicator.js
